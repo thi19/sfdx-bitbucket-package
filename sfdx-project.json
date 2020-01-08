@@ -16,7 +16,8 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "BitbucketPipelines": "0Ho0N000000CaTDSA0",
-        "BitbucketPipelines@0.1.0-1": "04t0N000001E1o6QAC"
+        "BitbucketPipelines": "0Ho6g000000KyzjCAC",
+        "BitbucketPipelines@0.1.0-1": "04t0N000001E1o6QAC",
+        "BitbucketPipelines@0.1.0-2": "04t6g000004xA2rAAE"
     }
 }

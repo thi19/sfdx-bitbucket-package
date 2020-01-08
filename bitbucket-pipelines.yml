@@ -18,7 +18,7 @@ pipelines:
           - export ROOTDIR=force-app/main/default/
           - export TESTLEVEL=RunLocalTests
           #Be sure to update the package ID (package ID starts with OHo) or package alias here from the sfdx-project.json file
-          - export PACKAGENAME="0Ho0N000000CaTDSA0"
+          - export PACKAGENAME="0Ho6g000000KyzjCAC"
           - export PACKAGEVERSION=""
           #Create sfdx directory
           - mkdir sfdx
